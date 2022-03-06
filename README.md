@@ -23,10 +23,10 @@ _____________|','   ///_/-------------/   |
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Junior Research Scientist at Fraunhofer USA CMA || Software Engineering Grad at University of Maryland
+<!--## I'm a Junior Research Scientist at Fraunhofer USA CMA || Software Engineering Grad at University of Maryland-->
 
 ## About me :mortar_board:
-I'm a Developer and Researcher with a drive to create innovative products. 🧠
+I'm a Developer and Researcher with a drive to create innovative products. 🧠 Currently working as a  Junior Research Scientist at Fraunhofer USA CMA. Software Engineering Grad at University of Maryland :telescope:
 
 ## What I know :computer:
 📚Technology Stack:
@@ -34,9 +34,13 @@ I'm a Developer and Researcher with a drive to create innovative products. 🧠
 - Front End: React, Vue Js, HTML 5, CSS, Bootstrap4, JQuery
 - Back End: NodeJS, Django, AWS Lambda , EC2
 - Containerization: Docker, Kubernetes
-- Libraries: Numpy, Pandas, Sklearn, TensorFlow, Keras, Scipy
+- Libraries: Numpy, Pandas, Sklearn, TensorFlow, Keras, Scipy, Spring Boot
 - Databases: Oracle, MySQL, NoSQL, MongoDB, PostgreSQL
 - Miscellaneous: Linux, Windows, Jira, Bash, Gitlab, Agile Practices
+
+## What I want to do next :thinking:
+- Understand and implement Artificial intelligence techniques in vast areas such as Software Development, Quantitative Finance, Blockchain and Quantum Computing.
+- Unlock the secret to the universe :rofl:
 
 ---
 
