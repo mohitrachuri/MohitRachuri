@@ -30,7 +30,9 @@ _____________|','   ///_/-------------/   |
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
+---
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitrachuri&repo=mohitrachuri&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
