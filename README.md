@@ -1,9 +1,6 @@
 ### Hi 👋, I.m Mohit Rachuri
 
-<!--
-**mohitrachuri/MohitRachuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
@@ -15,4 +12,9 @@ Here are some ideas to get you started:
 https://www.linkedin.com/in/mohitrachuri/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**mohitrachuri/MohitRachuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
