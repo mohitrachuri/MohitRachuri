@@ -25,10 +25,18 @@ _____________|','   ///_/-------------/   |
 
 ## I'm a Junior Research Scientist at Fraunhofer USA CMA || Software Engineering Grad at University of Maryland
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+## About me :mortar_board:
+I'm a Developer and Researcher with a drive to create innovative products. 🧠
+
+## What I know :computer:
+📚Technology Stack:
+- Languages: Python, Java, JavaScript, C
+- Front End: React, Vue Js, HTML 5, CSS, Bootstrap4, JQuery
+- Back End: NodeJS, Django, AWS Lambda , EC2
+- Containerization: Docker, Kubernetes
+- Libraries: Numpy, Pandas, Sklearn, TensorFlow, Keras, Scipy
+- Databases: Oracle, MySQL, NoSQL, MongoDB, PostgreSQL
+- Miscellaneous: Linux, Windows, Jira, Bash, Gitlab, Agile Practices
 
 ---
 
