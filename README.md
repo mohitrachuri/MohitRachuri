@@ -26,7 +26,7 @@ _____________|','   ///_/-------------/   |
 <!--## I'm a Junior Research Scientist at Fraunhofer USA CMA || Software Engineering Grad at University of Maryland-->
 
 ## About me :mortar_board:
-I'm a Developer and Researcher with a drive to create innovative products. 🧠 Currently working as a  Junior Research Scientist at Fraunhofer USA CMA. Software Engineering Grad at University of Maryland :telescope:
+I'm a Developer and Researcher with a drive to create innovative products. 🧠 Currently working as a  Junior Research Scientist at Fraunhofer USA CMA. Master's in Software Engineering @UMD :telescope:
 
 ## What I know :computer:
 📚Technology Stack:
