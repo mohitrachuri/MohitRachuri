@@ -43,8 +43,8 @@ I'm a Developer and Researcher with a drive to create innovative products. 🧠 
 - Understand and implement Artificial intelligence techniques in vast areas such as Software Development, Quantitative Finance, Blockchain and Quantum Computing.
 - Unlock the secret to the universe :rofl:
 
----
-
+<!-- ---
+ -->
 <!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitrachuri&repo=mohitrachuri&countColorcountColor&countColor=%237B1E7B"/> -->
 
 <!-- ### Connect with me 📝
