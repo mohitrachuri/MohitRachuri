@@ -45,7 +45,7 @@ I'm a Developer and Researcher with a drive to create innovative products. 🧠 
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitrachuri&repo=mohitrachuri&countColorcountColor&countColor=%237B1E7B"/>
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mohitrachuri&repo=mohitrachuri&countColorcountColor&countColor=%237B1E7B"/> -->
 
 <!-- ### Connect with me 📝
 
