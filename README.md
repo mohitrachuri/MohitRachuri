@@ -30,14 +30,14 @@ I'm a Developer and Researcher with a drive to create innovative products. 🧠 
 
 ## What I know :computer:
 📚Technology Stack:
-●	Proficient in: Python, JavaScript, C, Data Structures, System Design || Familiar With: C++, Java, TypeScript. 
-ML Libraries: Scikit-learn, Pandas, Numpy, keras, Pytorch.
-●	Front End: React JS, Vue JS, Html5, CSS, Bootstrap, JS, J Query, Material UI.
-●	Back End: NodeJS, Flask, Spring Boot.
-●	Cloud Technologies: Azure, AWS (EC2, lambda, API Gateway)
-●	Containerization: Docker, Kubernetes || Repository Control: Git, GitHub, Bash, Gitlab, JIRA, Azure.
-●	Databases: MySQL, PostgreSQL, Oracle DB, MongoDB, Firebase., AWS Dynamo DB.
-●	Soft Skills: Initiative, Leadership, Resourcefulness, Communication, Public Speaking.
+- Proficient in: Python, JavaScript, C, Data Structures, System Design || Familiar With: C++, Java, TypeScript. 
+- ML Libraries: Scikit-learn, Pandas, Numpy, keras, Pytorch.
+- Front End: React JS, Vue JS, Html5, CSS, Bootstrap, JS, J Query, Material UI.
+- Back End: NodeJS, Flask, Spring Boot.
+- Cloud Technologies: Azure, AWS (EC2, lambda, API Gateway)
+- Containerization: Docker, Kubernetes || Repository Control: Git, GitHub, Bash, Gitlab, JIRA, Azure.
+- Databases: MySQL, PostgreSQL, Oracle DB, MongoDB, Firebase., AWS Dynamo DB.
+- Soft Skills: Initiative, Leadership, Resourcefulness, Communication, Public Speaking.
 
 ## What I want to do next :thinking:
 - Understand and implement Artificial intelligence techniques in vast areas such as Software Development, Quantitative Finance, Blockchain and Quantum Computing.
