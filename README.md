@@ -23,7 +23,7 @@ _____________|','   ///_/-------------/   |
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<!--## I'm a Junior Research Scientist at Fraunhofer USA CMA || Software Engineering Grad at University of Maryland-->
+<!--## I'm a Software Engineer at Amazon || Software Engineering Grad from University of Maryland-->
 
 ## About me :mortar_board:
 I'm a Developer and Researcher with a drive to create innovative products. 🧠 I love to brainstorm on new ideas, problems and find Simple and Scalable solutions for them. Master's in Software Engineering @UMD :telescope:
