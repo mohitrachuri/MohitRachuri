@@ -27,7 +27,6 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Mohit_Rachuri-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrachuri)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohitrachuri)
 
 ---
 
@@ -39,7 +38,7 @@
 <summary>Random Facts</summary>
 
 - Treat AI agents as "slot machines for programmers"
-- Run 3-6 Claude instances concurrently
+- Run 3-6 Claude/Codex instances concurrently
 - Gym enthusiast (when not coding)
 
 </details>
