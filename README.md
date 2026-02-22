@@ -12,14 +12,15 @@
 
 ## Current Projects
 
-- 📣 **[Keryx](https://usekeryx.com/)** - Outbound Sales Platform
--  ToDo
+- 📣 **[Keryx](https://usekeryx.com/)** - Outbound Sales Infra Platform
+-  [Adding Soon]
 
 ### Legacy Work
-- ToDo
+- [Adding Soon]
 
 ## What I'm Doing
-- ToDo
+- Engineering at AWS Bedrock (ML Inference & Foundation Model Serving)
+- Building projects that can add value to humans
 
 ## Connect
 
