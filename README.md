@@ -21,16 +21,8 @@
 ### Legacy Work
 - ToDo
 
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/mohitrachuri)
-
 ## What I'm Doing
-
 - ToDo
-
-
 
 ## Connect
 
